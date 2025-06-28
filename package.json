@@ -8,7 +8,7 @@
     "stop": "pm2 stop all",
     "Ovl": "pm2 start Ovl.js --attach --name ovl"
     },
-  "keywords": ["Ainz", "OVL-MD-V2", "Whatsapp", "Baileys", "Muti-device"],
+  "keywords": ["Ainz", "OVL-MD-V2", "Whatsapp", "Baileys", "Muti-devices"],
   "author": "Ainz-devs",
   "license": "MIT",
   "dependencies": {
