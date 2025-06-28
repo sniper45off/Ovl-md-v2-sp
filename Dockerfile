@@ -9,9 +9,9 @@ RUN git clone https://github.com/Ainz-devs/OVL-MD-V2.git /ovl_bot
 
 WORKDIR /ovl_bot
 
-COPY package.json .
+COPY package.json package-lock.json ./
 
-RUN npm install
+RUN npm ci
 
 COPY . .
 
