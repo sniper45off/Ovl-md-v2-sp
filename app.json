@@ -14,27 +14,27 @@
     },
     "NOM_OWNER": {
       "description": "Nom de l'Owner du bot",
-      "value": "Ainz",
+      "value": "꧁☫࿐𝐋𝐎𝐑𝐃 ⳹☫⳼ ᴍᴀʀɴᴇxᴜꜱ",
       "required": false
     },
     "NUMERO_OWNER": {
       "description": "Numéro WhatsApp de l'Owner (au format international)",
-      "value": "226xxxxxxxx",
+      "value": "242056401712",
       "required": true
     },
     "MODE": {
       "description": "Mode de fonctionnement du bot (public ou private)",
-      "value": "public",
+      "value": "private",
       "required": false
     },
     "SESSION_ID": {
       "description": "Identifiant de session",
-      "value": "ovl",
+      "value": "Ovl-MD_SVmecrch_SESSION-ID",
       "required": true
     },
     "DATABASE": {
       "description": "Lien de la base de données PostgreSQL",
-      "value": "",
+      "value": "https://supabase.com/dashboard/project/kgjzvqmtaineyoywcaic/editor/17300?schema=public",
       "required": false
     },
     "LEVEL_UP": {
@@ -44,12 +44,12 @@
     },
     "STICKER_PACK_NAME": {
       "description": "Nom du pack de stickers",
-      "value": "Wa-sticker",
+      "value": "Marnexus-sticker",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Auteur du sticker",
-      "value": "ᴏᴠʟ-ᴍᴅ-ᴠ𝟸",
+      "value": "꧁☫࿐𝐋𝐎𝐑𝐃 ⳹☫⳼ ᴍᴀʀɴᴇxᴜꜱ",
       "required": false
     }
   },
