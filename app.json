@@ -3,7 +3,7 @@
   "description": "Bot WhatsApp Multi-Device basé sur Baileys",
   "keywords": ["Ainz", "OVL-MD-V2", "Whatsapp", "Baileys", "Muti-device"],
   "logo": "https://files.catbox.moe/lojrxz.jpg",
-  "repository": ""https://github.com/Shadowjeager/OVL-MD-V2/edit/main/app.json,
+  "repository": "https://github.com/Shadowjeager/OVL-MD-V2/edit/main/app.json",
   "success_url": "/",
   "stack": "container",
   "env": {
